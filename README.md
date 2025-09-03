@@ -5,6 +5,8 @@
 
 而剩余的ppt文件为课程中所使用的ppt文件。
 
+在其中还有在vs项目中配置opencv的指导方案，可供配置基础的运行环境
+
 **课程设计**的实现：
 
 https://github.com/pekingdoncic/License-Plate-Recognition-System---Digital-Video-Processing-Course-Design
